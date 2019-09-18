@@ -1,0 +1,25 @@
+{
+  "name": "react-payfort-device-fingerprint",
+  "version": "1.0.0",
+  "description": "React implementation for adding device fingerprint from Payfort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taciobelmonte/react-payfort-device-fingerprint.git"
+  },
+  "keywords": [
+    "payfort",
+    "react",
+    "javascript",
+    "device_fingerprint"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taciobelmonte/react-payfort-device-fingerprint/issues"
+  },
+  "homepage": "https://github.com/taciobelmonte/react-payfort-device-fingerprint#readme"
+}
