@@ -5,9 +5,7 @@ if (typeof document !== 'undefined') {
     document.body.appendChild(snareScript);
 
     let variables = document.createElement('script');
-    variables.innerHTML = `var io_bbout_element_id = "device_fingerprint"; var io_install_stm =
-    false; var io_exclude_stm = 0; var io_install_flash = false; var
-    io_enable_rip = true;`;
+    variables.innerHTML = 'var io_bbout_element_id = "device_fingerprint"; var io_install_stm = false; var io_exclude_stm = 0; var io_install_flash = false; vario_enable_rip = true;';
     variables.async = true;
 
     document.body.appendChild(variables);

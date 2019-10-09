@@ -1,6 +1,6 @@
 {
   "name": "react-payfort-device-fingerprint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React implementation for adding device fingerprint from Payfort",
   "main": "index.js",
   "scripts": {
